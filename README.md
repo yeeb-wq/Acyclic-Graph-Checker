@@ -52,6 +52,10 @@ A Java program that determines whether a directed graph is **acyclic or cyclic**
 
 **Ewmini Perera** · *Software Engineering Undergraduate*
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewmini-perera/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/yeeb-wq)
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:ewmini.20240017@iit.ac.lk)
